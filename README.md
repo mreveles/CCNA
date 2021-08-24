@@ -12,7 +12,7 @@
       <li>1. Click on the lab.</li>
       <li>2. Download the raw file.</li>
       <li>3. Open Packet Tracer.</li>
-      <li>4. Open my lab.</li>
+      <li>4. Load my lab into Packet Tracer.</li>
       <li>5. Explore my configurations.</li>
     </ul> 
   </h4>
